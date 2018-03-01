@@ -1,0 +1,9 @@
+<loc>上海</loc>
+<a>http://www.baidu.com</a>
+<loc>北京</loc>
+<b>http://www.sina.com</b>
+<loc>广州</loc>
+<c>http://www.taobao.com</c>
+<loc>杭州</loc>
+<d>http://www.csdn.com</d>
+<loc>黑龙江</loc>
